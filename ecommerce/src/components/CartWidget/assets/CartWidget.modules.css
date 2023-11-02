@@ -1,0 +1,14 @@
+.cart-container{
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+   
+}
+    
+    
+.cart-container img{
+    cursor: pointer;
+    height: 30px;
+    padding-right: 5px;
+
+}

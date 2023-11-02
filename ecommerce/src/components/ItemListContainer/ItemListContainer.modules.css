@@ -1,0 +1,6 @@
+.greeting-container{
+    display: flex;
+    justify-content: center;
+    padding-top: 5px;
+}
+    
